@@ -1,130 +1,28 @@
-[22:04:42] [ServerMain/INFO]: Building unoptimized datafixer
-[22:04:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:04:44] [ServerMain/INFO]: Loaded 7 recipes
-[22:04:44] [ServerMain/INFO]: Loaded 1179 advancements
-[22:04:45] [Server thread/INFO]: Starting minecraft server version 1.19.2
-[22:04:45] [Server thread/INFO]: Loading properties
-[22:04:45] [Server thread/INFO]: Default game type: SURVIVAL
-[22:04:45] [Server thread/INFO]: Generating keypair
-[22:04:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:04:45] [Server thread/INFO]: Using default channel type
-[22:04:45] [Server thread/INFO]: Preparing level "world"
-[22:04:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:04:47] [Server thread/INFO]: Preparing spawn area: 0%
-[22:04:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-10/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[22:04:56] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[22:04:57] [Worker-Main-4/INFO]: Preparing spawn area: 88%
-[22:04:57] [Worker-Main-4/INFO]: Preparing spawn area: 88%
-[22:04:59] [Worker-Main-10/INFO]: Preparing spawn area: 88%
-[22:04:59] [Worker-Main-7/INFO]: Preparing spawn area: 88%
-[22:04:59] [Worker-Main-7/INFO]: Preparing spawn area: 88%
-[22:04:59] [Worker-Main-7/INFO]: Preparing spawn area: 88%
-[22:05:00] [Worker-Main-9/INFO]: Preparing spawn area: 88%
-[22:05:00] [Worker-Main-6/INFO]: Preparing spawn area: 88%
-[22:05:01] [Worker-Main-6/INFO]: Preparing spawn area: 88%
-[22:05:01] [Worker-Main-3/INFO]: Preparing spawn area: 88%
-[22:05:02] [Worker-Main-3/INFO]: Preparing spawn area: 88%
-[22:05:02] [Worker-Main-4/INFO]: Preparing spawn area: 88%
-[22:05:03] [Worker-Main-11/INFO]: Preparing spawn area: 88%
-[22:05:03] [Worker-Main-3/INFO]: Preparing spawn area: 89%
-[22:05:04] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[22:05:04] [Worker-Main-7/INFO]: Preparing spawn area: 93%
-[22:05:05] [Worker-Main-3/INFO]: Preparing spawn area: 96%
-[22:05:05] [Worker-Main-10/INFO]: Preparing spawn area: 99%
-[22:05:05] [Server thread/INFO]: Time elapsed: 18286 ms
-[22:05:05] [Server thread/INFO]: Done (20.066s)! For help, type "help"
-[22:05:28] [User Authenticator #1/INFO]: UUID of player xX_JyJy_Xx is fa786772-35ee-444a-9c88-502b6f4a119f
-[22:05:28] [Server thread/INFO]: xX_JyJy_Xx[/192.168.1.5:49266] logged in with entity id 1 at (-9.5, 80.0, 7.5)
-[22:05:28] [Server thread/INFO]: xX_JyJy_Xx joined the game
-[22:06:18] [User Authenticator #2/INFO]: UUID of player Elisathing is eee1c97f-8a20-4355-9831-fa743521cf6b
-[22:06:18] [Server thread/INFO]: Elisathing[/84.197.219.3:49941] logged in with entity id 219 at (-5.5, 80.0, 10.5)
-[22:06:18] [Server thread/INFO]: Elisathing joined the game
-[22:06:26] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-1, y=82, z=12}
-[22:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-9, y=73, z=10}
-[22:06:32] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-8, y=74, z=11}
-[22:06:33] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-8, y=75, z=13}
-[22:06:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=-8, y=75, z=14}
-[22:07:36] [User Authenticator #3/INFO]: UUID of player JJonMC is 3eeffba7-cde0-49d6-b2eb-9e06077ef3f1
-[22:07:36] [Server thread/INFO]: JJonMC[/81.78.10.255:59019] logged in with entity id 551 at (4.5, 75.0, -4.5)
-[22:07:36] [Server thread/INFO]: JJonMC joined the game
-[22:07:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=3, y=77, z=12}
-[22:07:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=3, y=76, z=12}
-[22:07:50] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=3, y=77, z=12}
-[22:08:13] [Server thread/INFO]: JJonMC lost connection: Disconnected
-[22:08:13] [Server thread/INFO]: JJonMC left the game
-[22:09:22] [Server thread/INFO]: xX_JyJy_Xx has made the advancement [Stone Age]
-[22:09:41] [Server thread/INFO]: Elisathing has made the advancement [Stone Age]
-[22:10:32] [User Authenticator #4/INFO]: UUID of player JJonMC is 3eeffba7-cde0-49d6-b2eb-9e06077ef3f1
-[22:10:32] [Server thread/INFO]: JJonMC[/81.78.10.255:59234] logged in with entity id 1248 at (1.1386000536553822, 76.0, 7.298495478116326)
-[22:10:32] [Server thread/INFO]: JJonMC joined the game
-[22:10:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=2, y=77, z=6}
-[22:10:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=4, y=74, z=1}
-[22:10:46] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=4, y=75, z=2}
-[22:10:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=3, y=75, z=3}
-[22:10:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=3, y=75, z=3}
-[22:10:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=3, y=75, z=3}
-[22:10:47] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=3, y=75, z=3}
-[22:10:48] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=0, y=0, z=0} gt{x=3, y=75, z=3}
-[22:11:25] [Server thread/INFO]: xX_JyJy_Xx has made the advancement [Getting an Upgrade]
-[22:14:49] [Server thread/INFO]: Elisathing fell from a high place
-[22:15:27] [Server thread/INFO]: JJonMC has made the advancement [Stone Age]
-[22:15:28] [Server thread/INFO]: xX_JyJy_Xx has made the advancement [A Seedy Place]
-[22:15:56] [Server thread/INFO]: JJonMC has made the advancement [Monster Hunter]
-[22:16:11] [Server thread/INFO]: JJonMC was shot by Skeleton
-[22:16:23] [Server thread/INFO]: xX_JyJy_Xx has made the advancement [Monster Hunter]
-[22:17:36] [Server thread/INFO]: JJonMC was impaled by Drowned
-[22:17:40] [Server thread/INFO]: xX_JyJy_Xx was impaled by Drowned
-[22:18:07] [Server thread/INFO]: xX_JyJy_Xx was impaled by Drowned
-[22:18:21] [Server thread/INFO]: JJonMC was slain by Elisathing
-[22:18:59] [Server thread/INFO]: Nothing changed. The player already is an operator
-[22:19:05] [Server thread/INFO]: [xX_JyJy_Xx: Made Elisathing a server operator]
-[22:19:38] [Server thread/INFO]: [xX_JyJy_Xx: The difficulty has been set to Easy]
-[22:19:47] [Server thread/INFO]: Elisathing has made the advancement [Monster Hunter]
-[22:24:59] [Server thread/INFO]: [Elisathing: Kicked JJonMC: Kicked by an operator]
-[22:24:59] [Server thread/INFO]: JJonMC lost connection: Kicked by an operator
-[22:24:59] [Server thread/INFO]: JJonMC left the game
-[22:25:25] [Server thread/INFO]: xX_JyJy_Xx was shot by Skeleton
-[22:25:27] [User Authenticator #5/INFO]: UUID of player JJonMC is 3eeffba7-cde0-49d6-b2eb-9e06077ef3f1
-[22:25:27] [Server thread/INFO]: JJonMC[/81.78.10.255:59440] logged in with entity id 6609 at (-211.83192789794953, 74.41999998688698, -284.79618680873165)
-[22:25:27] [Server thread/INFO]: JJonMC joined the game
-[22:25:52] [Server thread/INFO]: Elisathing was blown up by Creeper
-[22:26:39] [Server thread/INFO]: JJonMC has made the advancement [Getting an Upgrade]
-[22:28:51] [Server thread/INFO]: [xX_JyJy_Xx: Kicked JJonMC: Kicked by an operator]
-[22:28:51] [Server thread/INFO]: JJonMC lost connection: Kicked by an operator
-[22:28:51] [Server thread/INFO]: JJonMC left the game
-[22:28:54] [User Authenticator #6/INFO]: UUID of player JJonMC is 3eeffba7-cde0-49d6-b2eb-9e06077ef3f1
-[22:28:54] [Server thread/INFO]: JJonMC[/81.78.10.255:59473] logged in with entity id 8008 at (-181.52970685295415, 51.0, -270.05559641779956)
-[22:28:54] [Server thread/INFO]: JJonMC joined the game
-[22:31:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:31:22] [Server thread/INFO]: shutdown<--[HERE]
-[22:31:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:31:29] [Server thread/INFO]: exit<--[HERE]
-[22:31:33] [Server thread/INFO]: Stopping the server
-[22:31:33] [Server thread/INFO]: Stopping server
-[22:31:33] [Server thread/INFO]: Saving players
-[22:31:33] [Server thread/INFO]: JJonMC lost connection: Server closed
-[22:31:33] [Server thread/INFO]: JJonMC left the game
-[22:31:33] [Server thread/INFO]: Saving worlds
-[22:31:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:31:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:31:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:31:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:01] [Server thread/INFO]: [xX_JyJy_Xx: Gamerule keepInventory is now set to: true]
+[00:00:04] [Server thread/INFO]: <xX_JyJy_Xx> it's on
+[00:01:10] [Server thread/INFO]: <xX_JyJy_Xx> bah bah blacksheep
+[00:01:52] [Server thread/INFO]: <xX_JyJy_Xx> ye
+[00:02:03] [Server thread/INFO]: <xX_JyJy_Xx> it's vanilla tweaks
+[00:02:19] [Server thread/INFO]: <xX_JyJy_Xx> it's this customisable thing
+[00:02:49] [Server thread/INFO]: <xX_JyJy_Xx> no you can chose what you want different on the website and get a personilsed resource pack
+[00:03:16] [Server thread/INFO]: <xX_JyJy_Xx> no i mean like simple things
+[00:04:14] [Server thread/INFO]: <xX_JyJy_Xx> ye
+[00:04:27] [Server thread/INFO]: <xX_JyJy_Xx> but uhm it's midnight, I kinda feel like going to bed
+[00:04:30] [Server thread/INFO]: <xX_JyJy_Xx> irl
+[00:04:56] [Server thread/INFO]: Elisathing lost connection: Disconnected
+[00:04:56] [Server thread/INFO]: Elisathing left the game
+[00:04:59] [Server thread/INFO]: JJonMC lost connection: Disconnected
+[00:04:59] [Server thread/INFO]: JJonMC left the game
+[00:05:02] [Server thread/INFO]: xX_JyJy_Xx lost connection: Disconnected
+[00:05:02] [Server thread/INFO]: xX_JyJy_Xx left the game
+[00:06:38] [Server thread/INFO]: Stopping the server
+[00:06:38] [Server thread/INFO]: Stopping server
+[00:06:38] [Server thread/INFO]: Saving players
+[00:06:38] [Server thread/INFO]: Saving worlds
+[00:06:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:06:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:06:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:06:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:06:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:06:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:06:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
